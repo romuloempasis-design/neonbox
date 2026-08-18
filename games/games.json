@@ -12,7 +12,7 @@
       "id":"tetris",
       "title":"Neonbox Tetris",
       "author":"Neonbox",
-      "version":"0.4.0",
+      "version":"0.5.2",
       "script":"games/tetris/tetris.js"
     }
   ]
