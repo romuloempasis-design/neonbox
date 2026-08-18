@@ -1,0 +1,19 @@
+{
+  "version":"1.0",
+  "games":[
+    {
+      "id":"test",
+      "title":"Neonbox Test",
+      "author":"Neonbox",
+      "version":"0.1.0",
+      "script":"games/test/test.js"
+    },
+    {
+      "id":"tetris",
+      "title":"Neonbox Tetris",
+      "author":"Neonbox",
+      "version":"0.4.0",
+      "script":"games/tetris/tetris.js"
+    }
+  ]
+}
