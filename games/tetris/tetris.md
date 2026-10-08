@@ -516,31 +516,7 @@ A line can only clear when the current board actually contains a fully occupied 
 - Allow gameplay input during line-clear flash
 - Allow stale line-clear state to affect the next piece
 
-## DEVELOPMENT COMMANDS
 
-When the user says NEXT:
-
-Continue with the next feature in the development order.
-
-When the user says FULL CODE:
-
-Provide the complete contents of every file that must be replaced, clearly labeled by filename.
-
-When the user says COMPACT MODE:
-
-Keep explanations short and prioritize complete, directly usable code.
-
-When changing architecture:
-
-Explain why the architecture change is necessary before implementing it.
-
-When fixing a gameplay bug:
-
-Prefer fixing the underlying state-management problem instead of adding visual or timing workarounds.
-
-When updating Tetris behavior:
-
-Update the version and relevant documentation.
 
 ## VERSION HISTORY
 
